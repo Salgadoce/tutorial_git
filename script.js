@@ -36,6 +36,14 @@ const hotelData = [
     pricing: 600.0,
     rate: 5,
   },
+  {
+    local: "Hogwarts",
+    name: "Castelo de Hogwarts",
+    src: "./assets/castelo.jpg",
+    pricing: 420.0,
+    rate: 5,
+  },
+
 ];
 
 const hotelListComponent = document.getElementById("card-list");
